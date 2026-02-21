@@ -1,9 +1,3 @@
-Here is a **professional, production-standard README** you can use for your TikTok Clone (Expo + Expo Router).
-
-You can copy and paste this into your `README.md`.
-
----
-
 # 📱 TikTik Clone
 
 A modern **TikTok-inspired mobile application** built with **Expo**, **React Native**, and **Expo Router**.
